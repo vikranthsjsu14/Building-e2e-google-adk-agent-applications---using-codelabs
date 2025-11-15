@@ -8,3 +8,14 @@ Here are the logs after creating deployment
 
 Final step of publishing agentspace
 <img width="815" height="90" alt="Screenshot 2025-11-11 at 3 31 55 PM" src="https://github.com/user-attachments/assets/abcb62c0-c9f4-4f04-85cc-2432ca5cde7b" />
+
+B. 
+
+
+C. 
+
+
+D. 
+
+
+E. 
