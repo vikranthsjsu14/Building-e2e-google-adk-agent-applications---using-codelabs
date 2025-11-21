@@ -16,9 +16,12 @@ Here is the image of the agent running which I basically followed the instructio
 
 
 C. 
+Here is the image of the sql dbs:
+<img width="915" height="398" alt="Screenshot 2025-11-20 at 5 29 38 PM" src="https://github.com/user-attachments/assets/5f502229-d284-4427-8362-6ef2be226740" />
+<img width="873" height="477" alt="Screenshot 2025-11-20 at 5 32 49 PM" src="https://github.com/user-attachments/assets/619fd47c-f2d9-4cb6-961c-f5650ebab065" />
 
-
-D. 
+Here is the image of agent working:
+<img width="920" height="483" alt="Screenshot 2025-11-20 at 5 33 47 PM" src="https://github.com/user-attachments/assets/4672f939-8008-4468-8945-2fdf0a3ff033" />
 
 
 E. 
