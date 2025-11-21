@@ -9,7 +9,10 @@ Here are the logs after creating deployment
 Final step of publishing agentspace
 <img width="815" height="90" alt="Screenshot 2025-11-11 at 3 31 55 PM" src="https://github.com/user-attachments/assets/abcb62c0-c9f4-4f04-85cc-2432ca5cde7b" />
 
-B. 
+B. This assignment was very simple which only had a few set of rules to follow. 
+Here is the image of the agent running which I basically followed the instructions:
+<img width="662" height="392" alt="Screenshot 2025-11-20 at 4 40 24 PM" src="https://github.com/user-attachments/assets/562a3069-a046-46e8-937a-3b8e65a24cc2" />
+
 
 
 C. 
