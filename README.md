@@ -35,8 +35,12 @@ Here is the image of AI code review agent:
 here is a video of the walkthrough: https://youtu.be/SJTKKC_QWKc
 
 E. Here is the image of creating alloyDB Instance:
+
 <img width="914" height="293" alt="Screenshot 2025-11-21 at 12 39 11 AM" src="https://github.com/user-attachments/assets/e0ee3341-3391-4e01-9f6f-d4d48377e108" />
+
 Here is the final commerce built with agent:
+
 <img width="613" height="269" alt="Screenshot 2025-11-21 at 12 51 39 AM" src="https://github.com/user-attachments/assets/4e5d7382-a53c-4063-9b53-99db297c2648" />
 
+Here's the video of the walkthrough: https://youtu.be/Gp2pw7i8Iwg
 
