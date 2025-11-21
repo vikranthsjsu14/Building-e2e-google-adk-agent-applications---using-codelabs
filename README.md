@@ -9,13 +9,13 @@ Here are the logs after creating deployment
 Final step of publishing agentspace
 <img width="815" height="90" alt="Screenshot 2025-11-11 at 3 31 55 PM" src="https://github.com/user-attachments/assets/abcb62c0-c9f4-4f04-85cc-2432ca5cde7b" />
 
-Here is a video of the walkthrough:
+Here is a video of the walkthrough: https://youtu.be/XugPuJKBskg
 
 B. This assignment was very simple which only had a few set of rules to follow. 
 Here is the image of the agent running which I basically followed the instructions:
 <img width="662" height="392" alt="Screenshot 2025-11-20 at 4 40 24 PM" src="https://github.com/user-attachments/assets/562a3069-a046-46e8-937a-3b8e65a24cc2" />
 
-Here is a video of the walkthrough:
+Here is a video of the walkthrough: https://youtu.be/eBUxT247fcU
 
 C. 
 Here is the image of the sql dbs:
@@ -25,11 +25,18 @@ Here is the image of the sql dbs:
 Here is the image of agent working:
 <img width="920" height="483" alt="Screenshot 2025-11-20 at 5 33 47 PM" src="https://github.com/user-attachments/assets/4672f939-8008-4468-8945-2fdf0a3ff033" />
 
-Here is a video of the walkthrough:
+Here is a video of the walkthrough: https://youtu.be/LzGwXAMNyvM
 
 D. Here is the image of the first agent:
 <img width="1279" height="139" alt="Screenshot 2025-11-20 at 11 58 29 PM" src="https://github.com/user-attachments/assets/b6ba29b2-61ee-47b9-8845-9edf16f0b60d" />
 Here is the image of AI code review agent:
 <img width="1308" height="445" alt="Screenshot 2025-11-21 at 12 03 30 AM" src="https://github.com/user-attachments/assets/21f2a654-0a1f-4fae-a899-7bcbc76a8fbe" />
 
-E. 
+here is a video of the walkthrough: https://youtu.be/SJTKKC_QWKc
+
+E. Here is the image of creating alloyDB Instance:
+<img width="914" height="293" alt="Screenshot 2025-11-21 at 12 39 11 AM" src="https://github.com/user-attachments/assets/e0ee3341-3391-4e01-9f6f-d4d48377e108" />
+Here is the final commerce built with agent:
+<img width="613" height="269" alt="Screenshot 2025-11-21 at 12 51 39 AM" src="https://github.com/user-attachments/assets/4e5d7382-a53c-4063-9b53-99db297c2648" />
+
+
